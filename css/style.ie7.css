@@ -1,0 +1,50 @@
+/***** IE VERSION 7 FIX *****/
+/****************************/
+
+img { outline: none; }
+hr { border: 0; outline: none; height: 1px; color: #ddd; }
+
+.headerinner .logoinner { padding: 16px 25px 17px 25px; }
+.headerinner .logo h1 a span { margin-bottom: 7px; }
+
+.flexslider { overflow: hidden; }
+
+.sf-menu { }
+.sf-menu li { display: inline; }
+.sf-menu ul { z-index: 100; }
+.sf-menu ul ul { left: 190px !important; }
+
+.poverlay { opacity: 1; display: none; }
+
+.taglist li { float: left; }
+
+.slidenav { overflow: hidden; height: 70px; }
+.slidenav li { display: inline; }
+
+.blogpanel-smallthumb .blogsummary { margin-bottom: 40px; }
+.blogpanel-smallthumb .blogimg a { display: block; }
+.taglist { margin-bottom: 20px; min-height: 80px; }
+
+.blogcomments li { border-bottom: 0; border-top: 1px solid #eee; margin-top: 0; padding-top: 25px; margin-bottom: 0; padding-bottom: 0; }
+.blogcomments li:first-child { border-top: 0; margin-top: 0; padding-top: 0; }
+
+.blogcomments ul { list-style: none; }
+
+.commentform p label { display: block; float: none; padding-top: 0; margin-bottom: 5px; }
+.commentform p span.field { margin-left: 0; }
+.commentform p.marginleft100 { margin-left: 0; }
+.commentform button { padding: 7px 0; }
+
+form button { padding: 7px 0; }
+
+.newsletterform button { padding: 7px; }
+
+/* slider fix */
+.slidetxt2-2 { line-height: normal; top: 21px; }
+.slidetxt3-1 { line-height: normal; top: 0; }
+
+.pricingtable tr td { border-bottom: 0; border-top: 1px dashed #ddd; }
+.pricingtable tr:first-child td { border-top: 0; }
+.pricingtable tr.pricingtable-head td { border-bottom: 1px solid #ddd; }
+
+

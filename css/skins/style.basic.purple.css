@@ -1,0 +1,52 @@
+/***** USING #6927d5 (PRIMARY) COLOR *****/
+/*******************************/
+
+a, a:active, .slidetxt1-2, .slidetxt6-2,
+.jcarousel-list li .postinfo h4 a:hover,
+.ptitle a:hover, .blogcategory a:hover,
+.blogtitle a:hover, .relatedpost .relatedtitle a:hover,
+.linklistwidget ul li a:hover, .categorylist li a:hover,
+.trending-posts li h4 a:hover, .slidetxt9-2,
+.postlist .listsummary h4 a:hover, .readmore span,
+.commentlist .listtitle a:hover,
+.ui-tabs-nav li.ui-tabs-selected a,
+.footerinner a:hover, .slidetxt7-2 { color: #6927d5; }
+
+form button, .slidebg2-1, 
+.jcarousel-list li .viewpost:hover,
+.pcategory li a:hover, .poverlay a:hover,
+.portbutton a.download, .shareblog li a:hover,
+.blogcomments li .replybutton:hover,
+.pagination li.current a, .taglist li a:hover span,
+.trending-posts li .viewpost:hover,
+.sidemenu li a.active, .btn-orange { background-color: #6927d5; }
+
+.headerinner .menu, .sf-menu li a span, .btn-orange,
+.pcategory li a:hover, .portbutton a.download, form button,
+.slidenav li.activeSlide, .blogcomments li .authorimg:hover,
+.pagination li.current a, .footerinner .flickr ul li a:hover { border-color: #6927d5; }
+
+
+/***** USING #813fef (SECONDARY) COLOR *****/
+/*******************************/
+
+.slidetxt3-1 span, .slidetxt4-2,
+.sectitle span, .sidebartitle span,
+.ui-accordion .ui-state-active a, 
+.ui-accordion .ui-state-active a:hover { color: #813fef; }
+
+.headerinner .logoinner, .sf-menu li a:hover span, 
+.sf-menu li.sfHover a:hover span,
+.sf-menu li.sfHover > a > span,
+.sf-menu li.current a span, 
+.sf-menu ul li.sfHover > a > span,
+.headerinner .menuiconinner { border-color: #813fef; }
+
+.headerinner .logo h1 a span,
+.slidebg3-2, form button:hover { background-color: #813fef; }
+
+/***** OTHER *****/
+/*****************/
+
+.portfoliowrapper .preloader { background-image: url(../../images/loader2.gif); }
+.categorylist li { background-image: url(../../images/list/list-type3.png); }

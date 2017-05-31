@@ -1,0 +1,83 @@
+body { background: #222; }
+body.body-fixed { background: #222; }
+
+.mainwrapper { background: #f7f7f7; }
+.headwrapper { background: #ffbe00; border-bottom: 1px solid #dfa704; }
+.pagetitle { border-bottom: 0; }
+.pagetitle span { color: #111; }
+.searchwidget input, .searchwidget input:focus { border-color: #dfa704; }
+
+/***** USING #ffbe00 (PRIMARY) COLOR *****/
+/*******************************/
+
+a, a:active, .slidetxt1-2, .slidetxt6-2,
+.jcarousel-list li .postinfo h4 a:hover,
+.ptitle a:hover, .blogcategory a:hover,
+.blogtitle a:hover, .relatedpost .relatedtitle a:hover,
+.linklistwidget ul li a:hover, .categorylist li a:hover,
+.trending-posts li h4 a:hover, .slidetxt9-2,
+.postlist .listsummary h4 a:hover, .readmore span,
+.commentlist .listtitle a:hover,
+.ui-tabs-nav li.ui-tabs-selected a,
+.footerinner a:hover, .slidetxt7-2 { color: #ffbe00; }
+
+form button, .slidebg2-1, 
+.jcarousel-list li .viewpost:hover,
+.pcategory li a:hover, .poverlay a:hover,
+.portbutton a.download, .shareblog li a:hover,
+.blogcomments li .replybutton:hover,
+.pagination li.current a, .taglist li a:hover span,
+.trending-posts li .viewpost:hover,
+.sidemenu li a.active, .btn-orange { background-color: #ffbe00; }
+
+.headerinner .menu, .sf-menu li a span, .btn-orange,
+.pcategory li a:hover, .portbutton a.download, form button,
+.slidenav li.activeSlide, .blogcomments li .authorimg:hover,
+.pagination li.current a, .footerinner .flickr ul li a:hover { border-color: #ffbe00; }
+
+
+/***** USING #ffdc00 (SECONDARY) COLOR *****/
+/*******************************/
+
+.slidetxt3-1 span, .slidetxt4-2,
+.sectitle span, .sidebartitle span,
+.ui-accordion .ui-state-active a, 
+.ui-accordion .ui-state-active a:hover { color: #ffdc00; }
+
+.headerinner .logoinner, .sf-menu li a:hover span, 
+.sf-menu li.sfHover a:hover span,
+.sf-menu li.sfHover > a > span,
+.sf-menu li.current a span, 
+.sf-menu ul li.sfHover > a > span,
+.headerinner .menuiconinner { border-color: #ffdc00; }
+
+.headerinner .logo h1 a span,
+.slidebg3-2, form button:hover { background-color: #ffdc00; }
+
+
+/***** OTHER *****/
+/*****************/
+
+.slidetxt3-3, .slidetxt1-3, .slidetxt8-2, .slidetxt2-4 { color: #000; }
+.slidetxt1-2, .slidetxt7-2 { color: #fff; }
+.slidebg3-2 { background-color: #fff; }
+.slidetxt8-3 .btn-orange { background-color: #222; border-color: #222; }
+.slidetxt8-3 .btn-orange:hover { background-color: #333; }
+.headerinner .menu, .sf-menu li a span { border-color: #000; }
+.headerinner .logoinner, .sf-menu li a:hover span, 
+.sf-menu li.sfHover a:hover span, .sf-menu li.sfHover > a > span, 
+.sf-menu li.current a span, .sf-menu ul li.sfHover > a > span { border-color: #fff; }
+.pcategory li a { border-color: #ccc; background: #fff; color: #333; }
+.pagination li a { color: #333; border-color: #ccc; background-color: #fff; }
+.pcontent, .postimg { background-color: #fcfcfc; }
+.nextprev a.npprev, .nextprev a.npnext { background-color: #fff; }
+.nextprev a.npprev:hover, .nextprev a.npnext:hover { background-color: #666; }
+.shareblog { background-color: #ddd; }
+.shareblog li { border-color: #f7f7f7; }
+.shareblog li.label h4 { background-color: #ccc; }
+.ui-tabs-nav li a { background-color: #f7f7f7; border-color: #f7f7f7; }
+.ui-tabs-nav li.ui-tabs-selected a { border-bottom-color: #f7f7f7; }
+
+.onebyone-slider2 { margin-bottom: 25px; } 
+.portfoliowrapper .preloader { background-image: url(../../images/loader2.gif); }
+.categorylist li { background-image: url(../../images/list/list-type3.png); }

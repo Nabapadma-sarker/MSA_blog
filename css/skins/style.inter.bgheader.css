@@ -1,0 +1,86 @@
+body.body-fixed { background: #666 url(../../images/patterns/line1.png); }
+body.body-fixed .mainwrapper {
+	-moz-box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	-webkit-box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	border: 1px solid #333; 
+	border-top: 0; 
+	border-bottom: 0;
+}
+.headwrapper {
+	background-color: #222;
+	background-image: url(../../images/patterns/line1.png), url(../../images/backgrounds/3.jpg); 
+	background-position: center bottom;
+	border-bottom: 1px solid #fff;
+}
+.headerinner { opacity: 0.95; }
+.pagetitle { border-bottom: 0; }
+.searchwidget input { border: 0; }
+
+body.body-fixed .footerinner { padding-top: 20px; }
+
+/***** USING #ff6c00 (PRIMARY) COLOR *****/
+/*******************************/
+
+a, a:active, .slidetxt1-2, .slidetxt6-2,
+.jcarousel-list li .postinfo h4 a:hover,
+.ptitle a:hover, .blogcategory a:hover,
+.blogtitle a:hover, .relatedpost .relatedtitle a:hover,
+.linklistwidget ul li a:hover, .categorylist li a:hover,
+.trending-posts li h4 a:hover, .slidetxt9-2,
+.postlist .listsummary h4 a:hover, .readmore span,
+.commentlist .listtitle a:hover, .slidetxt2-2,
+.ui-tabs-nav li.ui-tabs-selected a,
+.footerinner a:hover, .slidetxt7-2 { color: #ff6c00; }
+
+form button, .slidebg2-1, 
+.jcarousel-list li .viewpost:hover,
+.pcategory li a:hover, .poverlay a:hover,
+.portbutton a.download, .shareblog li a:hover,
+.blogcomments li .replybutton:hover,
+.pagination li.current a, .taglist li a:hover span,
+.trending-posts li .viewpost:hover,
+.sidemenu li a.active, .btn-orange { background-color: #ff6c00; }
+
+.headerinner .menu, .sf-menu li a span, .btn-orange,
+.pcategory li a:hover, .portbutton a.download, form button,
+.slidenav li.activeSlide, .blogcomments li .authorimg:hover,
+.pagination li.current a, .footerinner .flickr ul li a:hover { border-color: #ff6c00; }
+
+
+/***** USING #ff9c00 (SECONDARY) COLOR *****/
+/*******************************/
+
+.slidetxt3-1 span, .slidetxt4-2,
+.sectitle span, .sidebartitle span,
+.ui-accordion .ui-state-active a, 
+.ui-accordion .ui-state-active a:hover { color: #ff9c00; }
+
+.headerinner .logoinner, .sf-menu li a:hover span, 
+.sf-menu li.sfHover a:hover span,
+.sf-menu li.sfHover > a > span,
+.sf-menu li.current a span, 
+.sf-menu ul li.sfHover > a > span,
+.headerinner .menuiconinner { border-color: #ff9c00; }
+
+.headerinner .logo h1 a span,
+.slidebg3-2, form button:hover { background-color: #ff9c00; }
+
+
+/***** OTHER *****/
+/*****************/
+
+.slidebg2-1 { background: none; }
+.slidetxt2-1, .slidetxt2-3,
+.slidetxt1-1, .slidetxt8-1,
+.pagetitle h1 { color: #fff; text-shadow: 1px 1px rgba(0,0,0,0.2); }
+
+.slidetxt2-4, .slidetxt3-3,
+.slidetxt7-1, .slidetxt7-3, 
+.slidetxt7-4, .slidetxt7-5, 
+.slidetxt1-3, .slidetxt8-2,
+.pagetitle span { color: #ccc; text-shadow: 1px 1px rgba(0,0,0,0.2); }
+
+.onebyone-slider2 { margin-bottom: 25px; } 
+.portfoliowrapper .preloader { background-image: url(../../images/loader2.gif); }
+.categorylist li { background-image: url(../../images/list/list-type3.png); }

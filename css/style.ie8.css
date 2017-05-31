@@ -1,0 +1,16 @@
+/***** IE VERSION 8 FIX *****/
+/****************************/
+
+.headerinner .logoinner { padding-bottom: 24px; }
+
+.flexslider { overflow: hidden; }
+
+.blogcomments li { border-bottom: 0; border-top: 1px solid #eee; margin-top: 0; padding-top: 25px; margin-bottom: 0; padding-bottom: 0; }
+.blogcomments li:first-child { border-top: 0; margin-top: 0; padding-top: 0; }
+
+.poverlay { opacity: 1; display: none; }
+
+.pricingtable tr td { border-bottom: 0; border-top: 1px dashed #ddd; }
+.pricingtable tr:first-child td { border-top: 0; }
+.pricingtable tr.pricingtable-head td { border-bottom: 1px solid #ddd; }
+
